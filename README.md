@@ -4,7 +4,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](https://github.com/AaravKataria4542/Homepage-of-Netflix-using-HTML-and-CSS/blob/main/README.md)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/93814546/245242222-4959b8ef-266f-4194-8709-b90223d69b2e.png)
 
 ## Features
 
